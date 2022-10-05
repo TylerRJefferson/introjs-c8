@@ -6,7 +6,8 @@ const isReligiousExempt = false; //Change me!
 if(age >= 21 || isReligiousExempt) {
     console.log('You can drink!')
 } else if (age >= 18) {
-    console.log('You can party, but no booze!')
+    console.
+    log('You can party, but no booze!')
 } else {
     console.log('Go home child.')
 }
